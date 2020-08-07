@@ -1,0 +1,9 @@
+/* CSS for CGVimeoXBlock */
+
+.cgvimeo_block .count {
+    font-weight: bold;
+}
+
+.cgvimeo_block p {
+    cursor: pointer;
+}

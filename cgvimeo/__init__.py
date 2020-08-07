@@ -1,0 +1,1 @@
+from .cgvimeo import CGVimeoXBlock
